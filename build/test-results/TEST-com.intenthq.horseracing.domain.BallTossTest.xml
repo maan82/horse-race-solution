@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.intenthq.horseracing.domain.BallTossTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2014-12-25T16:03:51" hostname="mc-s071130.local" time="0.01">
+  <properties/>
+  <testcase name="shouldCreateWhenValidInput" classname="com.intenthq.horseracing.domain.BallTossTest" time="0.0030"/>
+  <testcase name="shouldCreateWhenOtherValidInput" classname="com.intenthq.horseracing.domain.BallTossTest" time="0.0010"/>
+  <testcase name="shouldThrowInvalidInputExceptionWhenInValidInput" classname="com.intenthq.horseracing.domain.BallTossTest" time="0.0010"/>
+  <testcase name="shouldThrowInvalidInputExceptionWhenInValidLaneInput" classname="com.intenthq.horseracing.domain.BallTossTest" time="0.0010"/>
+  <testcase name="shouldThrowInvalidInputExceptionWhenInValidYardInput" classname="com.intenthq.horseracing.domain.BallTossTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

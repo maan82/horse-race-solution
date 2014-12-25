@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.intenthq.horseracing.factory.HorseFactoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2014-12-25T16:03:51" hostname="mc-s071130.local" time="0.0080">
+  <properties/>
+  <testcase name="shouldThrowInvalidInputWhenEmpty" classname="com.intenthq.horseracing.factory.HorseFactoryTest" time="0.0010"/>
+  <testcase name="shouldThrowInvalidInputWhenMoreThanMax" classname="com.intenthq.horseracing.factory.HorseFactoryTest" time="0.0040"/>
+  <testcase name="shouldCreateWhenHappyPath" classname="com.intenthq.horseracing.factory.HorseFactoryTest" time="0.0030"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
